@@ -1,0 +1,154 @@
+canonical_identifier: bkk:krp/KR2p0170/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0170/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陰陽十一脈灸經甲本釋文
+  identifiers:
+    krp: KR2p0170
+  tags:
+    tls-internal: swl
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0170.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0170_001-CHANT.yaml, hash: 'sha256:9279bc3ec48f065787b9c26167aabc5d05a25bd5233b27efb26108d9a6e49a44'}
+  - {seq: 2, filename: KR2p0170_002-CHANT.yaml, hash: 'sha256:b9481566ed931080b979864bbd8c0c6970cba6111cb928f92563c6557d7fcac4'}
+  - {seq: 3, filename: KR2p0170_003-CHANT.yaml, hash: 'sha256:128dc6fe7fdd9bd53e6c50383c4c84f26afbeeb1fcb0ff9205129c3af59c2d8b'}
+  - {seq: 4, filename: KR2p0170_004-CHANT.yaml, hash: 'sha256:b42cde039a1276645dbfc0ac5a0fd3abe3c415fdf52f28fbd7d320b3e40a14df'}
+  - {seq: 5, filename: KR2p0170_005-CHANT.yaml, hash: 'sha256:19b5a292c360840f5bf06ca4f1448d8548ea2336f743b48010e251c93fa065d0'}
+  - {seq: 6, filename: KR2p0170_006-CHANT.yaml, hash: 'sha256:4b4c6b248c56df036280b5b20a24058063d0e82e388e67f7adcc864803aae508'}
+  - {seq: 7, filename: KR2p0170_007-CHANT.yaml, hash: 'sha256:8a30f88c1f0db280e54cf2fa2e32028dfc1784e5bebc3c413f7b89112463c383'}
+  - {seq: 8, filename: KR2p0170_008-CHANT.yaml, hash: 'sha256:657b855db30e8e7836969adc43db2b7f7b03e3ecfe195436c14f71b124b91de0'}
+  - {seq: 9, filename: KR2p0170_009-CHANT.yaml, hash: 'sha256:13d7e9d80c1e9cd7ae4c2f713cb716dbf02f6d465d2577edfc2ad20c6031e5c7'}
+  - {seq: 10, filename: KR2p0170_010-CHANT.yaml, hash: 'sha256:c30f2c985f7230aa2492f7dab87916a5bc8a83fd93c48ea2bad81f9416769c06'}
+  - {seq: 11, filename: KR2p0170_011-CHANT.yaml, hash: 'sha256:a0f3b54d5d07632c1ae5c3965c4a0370abcd3bf6dbcf7ebffd07556a8dd0c95d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0170_001-CHANT.markers.yaml, hash: 'sha256:8ff2378de81f688a23bffb7393a6f0ad358dbe009de3a01ec987177b1436193a'}
+  - {seq: 2, role: markers, filename: assets/KR2p0170_002-CHANT.markers.yaml, hash: 'sha256:18b53cf5f09a0a6b3affdacfc49fdd9213b031ad732b5b789e4e7ee870b94542'}
+  - {seq: 3, role: markers, filename: assets/KR2p0170_003-CHANT.markers.yaml, hash: 'sha256:706d61f71163c314ceff3000884891ed97fbd0e88e7cc152fcd5dafd229d5985'}
+  - {seq: 4, role: markers, filename: assets/KR2p0170_004-CHANT.markers.yaml, hash: 'sha256:ec9ddf09554180012dba568707125c1a15ea10df2740ef1ee2d884123ece489a'}
+  - {seq: 5, role: markers, filename: assets/KR2p0170_005-CHANT.markers.yaml, hash: 'sha256:d44395c157bdbe0c5857b41bb221b86eef97b1be8b459950b596fd7062236e96'}
+  - {seq: 6, role: markers, filename: assets/KR2p0170_006-CHANT.markers.yaml, hash: 'sha256:68f9a631bce30209180e04c006eca4c0d8071cb96336da613a28f26ab9974fa4'}
+  - {seq: 7, role: markers, filename: assets/KR2p0170_007-CHANT.markers.yaml, hash: 'sha256:21fc5407d7712c9c4a5006e36a1cb99ddce398644907e68909b2d5d99e2bdd90'}
+  - {seq: 8, role: markers, filename: assets/KR2p0170_008-CHANT.markers.yaml, hash: 'sha256:d47b04cbf0861e914d793cf7ce98e603541ab464888168354d0b6f89fc4db294'}
+  - {seq: 9, role: markers, filename: assets/KR2p0170_009-CHANT.markers.yaml, hash: 'sha256:0b0c6b26f8baa79b31e72d4f27fd8be59c0a43eaaf89a6e35ba6d9b54cfc02b8'}
+  - {seq: 10, role: markers, filename: assets/KR2p0170_010-CHANT.markers.yaml, hash: 'sha256:7f3cf654bbd357b97f3cda09473d1b2df040540fc508d57b1c643e2c6d90d36f'}
+  - {seq: 11, role: markers, filename: assets/KR2p0170_011-CHANT.markers.yaml, hash: 'sha256:0974d818d0a011ddb82e8c25f56ef4a4f455a2de8a6950256fa701886b073876'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0170_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 99
+  label: 鉅陽眽
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0170_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 94
+  label: 少陽眽
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0170_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 123
+  label: 陽明眽
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0170_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 60
+  label: 肩眽
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2p0170_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 57
+  label: 耳眽
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2p0170_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 58
+  label: 齒眽
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2p0170_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 97
+  label: 大陰眽
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2p0170_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 109
+  label: 厥陰眽
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2p0170_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 134
+  label: 少陰眽
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2p0170_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 82
+  label: 臂鉅陰眽
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2p0170_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 61
+  label: 臂少陰眽
+  type: section
+  level: 1
+hash: sha256:357e56d2601b31da009d11109794d361a142766656f256fdb36cb2f16c4f7fff

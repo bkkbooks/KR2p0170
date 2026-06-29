@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0170/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陽明眽陽明眽𣪠於骭骨外廉循骭而上穿臏出魚股之外廉上穿乳穿頰出目外廉環顏是動則病灑灑病寒喜龍婁吹顏黑病穜病至則惡人與火聞木音則然驚心腸欲獨閉戶牖而處病甚則欲登高而歌棄衣而走此為骭蹶是陽明眽主治其所産病顏痛鼻肍領頸痛乳痛心與胠痛腹外穜陽痛膝跳付為十病
+  hash: sha256:c142f884b2e943504d08ee0e06145d9c7028162c43ec630e88db76474110b49e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_003-1a.1-h}
+metadata:
+  title: 陰陽十一脈灸經甲本釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0170.xml
+hash: sha256:4b5ee0cf0b22a64bf7f1e726b4482e33bb6990fa568c3a3f90b6b07df946203f

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0170/chant/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臂鉅陰眽臂鉅陰眽在於手掌中出內陰兩骨之間上骨下廉筋之上出臂內陰入心中是動則病心滂滂彭彭如痛缺盆痛甚則交兩手而戰此為臂蹶是臂鉅陰眽主治其所產病𦙞痛痛心痛四末痛叚為五病
+  hash: sha256:64173141f40365c5e6c0e1a28851fc119616ed9cb175e1af0798b2ae6c1735de
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_010-1a.1-h}
+metadata:
+  title: 陰陽十一脈灸經甲本釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0170.xml
+hash: sha256:c30f2c985f7230aa2492f7dab87916a5bc8a83fd93c48ea2bad81f9416769c06
