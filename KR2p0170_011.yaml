@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臂少陰眽臂少陰眽起於臂兩骨之間之間下骨上廉筋之下出臑內陰入心中是動則病心痛益渴欲飲此為臂蹶是臂少陰眽主治其所産病脅痛為一病
-  hash: sha256:c3c50905ae92168003f47dba7c6d7873d9fc29c4d29e1baf2d4272feefa0fecd
+  text: 臂少陰眽臂少陰眽起於臂兩骨之間之間下骨上廉筋之下出臑內陰入心中是動則病心痛益渴欲飲此為臂蹶是臂少陰眽主治其所產病脅痛為一病
+  hash: sha256:6c635fb5a4a87c231e5fe5938f8f9076d58dbe987c0a069758591d2275e90f72
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_011-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:e277b4dde3f5c2208809ecf01a4db6be8eabde9496a48eb23e2205bbcfe99f13
+hash: sha256:a0f3b54d5d07632c1ae5c3965c4a0370abcd3bf6dbcf7ebffd07556a8dd0c95d

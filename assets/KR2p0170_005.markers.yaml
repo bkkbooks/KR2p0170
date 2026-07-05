@@ -32,8 +32,6 @@ markers:
   - {type: 'tls:seg', offset: 29, content: '', id: KR2p0170_CHANT_005-1a.19}
   - {type: 'tls:seg', offset: 31, content: '', id: KR2p0170_CHANT_005-1a.20}
   - {type: 'tls:seg', offset: 31, content: '', id: KR2p0170_CHANT_005-1a.21}
-  - {type: substitution, offset: 31, original: 煇, replacement: 輝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1219}}
-  - {type: substitution, offset: 32, original: 煇, replacement: 輝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1219}}
   - {type: punctuation, offset: 35, content: ，, id: KR2p0170_CHANT_005-bkkpn8}
   - {type: 'tls:seg', offset: 35, content: '', id: KR2p0170_CHANT_005-1a.22}
   - {type: 'tls:seg', offset: 35, content: '', id: KR2p0170_CHANT_005-1a.23}
@@ -43,7 +41,6 @@ markers:
   - {type: punctuation, offset: 42, content: 。, id: KR2p0170_CHANT_005-bkkpn10}
   - {type: 'tls:seg', offset: 42, content: '', id: KR2p0170_CHANT_005-1a.26}
   - {type: 'tls:seg', offset: 42, content: '', id: KR2p0170_CHANT_005-1a.27}
-  - {type: substitution, offset: 44, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 46, content: ：, id: KR2p0170_CHANT_005-bkkpn11}
   - {type: 'tls:seg', offset: 46, content: '', id: KR2p0170_CHANT_005-1a.28}
   - {type: 'tls:seg', offset: 46, content: '', id: KR2p0170_CHANT_005-1a.29}
@@ -61,4 +58,4 @@ markers:
   - {type: 'tls:seg', offset: 57, content: '', id: KR2p0170_CHANT_005-1a.37}
   - {type: xml-element, offset: 57, content: '', id: KR2p0170_CHANT_005-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:bfe78646c529d5b0eca4f458b0282dae440c9e442ae9b1fda13cb51ba97aa25b
+hash: sha256:dfb228a53b2f13ae495cc244cf08ec3e1d7ae150675a1dff7a66c6a67b72fdd1

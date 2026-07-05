@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 巨陽眽巨陽眽潼外踝婁中出㕁中上穿䟴出猒中夾脊出於項頭角下顏夾𩩲𣪠目內廉是動則病潼頭痛脊痛要以折脾不可以運膕如結腨如裂此為踝蹶是巨陽眽主治其所産病頭痛耳聾項痛耳彊瘧北痛要痛尻痛𦛱痛腨痛足小指痹為十二病
-  hash: sha256:8ed3b1f347d0b89cdcd265a3c1dc7e643c0a68e2cc492ba1ae8bad00d6504e28
+  text: 鉅陽眽鉅陽眽潼外踝婁中出㕁中上穿䟴出猒中夾脊出於項頭角下顏夾𩩲𣪠目內廉是動則病潼頭痛脊痛要以折脾不可以運膕如結腨如裂此為踝蹶是鉅陽眽主治其所產病頭痛耳聾項痛耳彊瘧北痛要痛尻痛𦛱痛腨痛足小指痹為十二病
+  hash: sha256:75f228d8ba9a0ede5b221017b0b660f0bc6e9cbf67a2fe4abae4ce10e5586723
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:0d18bc15a61a8db76cbac7389bd084c3bfdfba522c54f349ef4e4aa919814662
+hash: sha256:9279bc3ec48f065787b9c26167aabc5d05a25bd5233b27efb26108d9a6e49a44

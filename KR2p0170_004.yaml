@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 肩眽肩眽起於耳後下肩出臑外廉出臂外腕上乘手北是動則病嗌痛頷穜不可以顧肩以脫臑以折是肩眽主治其所産病領痛喉痹臂痛肘痛為四病
-  hash: sha256:43247fbf96d9c727a3d4bfd558f918514b0bd574dfce0e31a4eac42547acd1f6
+  text: 肩眽肩眽起於耳後下肩出臑外廉出臂外腕上乘手北是動則病嗌痛頷穜不可以顧肩以脫臑以折是肩眽主治其所產病領痛喉痹臂痛肘痛為四病
+  hash: sha256:f0dbf74df7ff1bbbfd3b2db753689ddf0536688ddc15e67cad5807040b583951
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_004-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:a524bc6515411b0650d359406c70362905e01771a1de99912d3b44d73fc57401
+hash: sha256:b42cde039a1276645dbfc0ac5a0fd3abe3c415fdf52f28fbd7d320b3e40a14df

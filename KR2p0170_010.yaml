@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臂巨陰眽臂巨陰眽在於手掌中出內陰兩骨之間上骨下廉筋之上出臂內陰入心中是動則病心滂滂彭彭如痛缺盆痛甚則交兩手而戰此為臂蹶是臂巨陰眽主治其所産病𦙞痛痛心痛四末痛假為五病
-  hash: sha256:fc02cd76b94c4105d19bb14d09be579f2721af047bdd23f021cb4e61c597c6de
+  text: 臂鉅陰眽臂鉅陰眽在於手掌中出內陰兩骨之間上骨下廉筋之上出臂內陰入心中是動則病心滂滂彭彭如痛缺盆痛甚則交兩手而戰此為臂蹶是臂鉅陰眽主治其所產病𦙞痛痛心痛四末痛叚為五病
+  hash: sha256:64173141f40365c5e6c0e1a28851fc119616ed9cb175e1af0798b2ae6c1735de
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_010-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:e75e5a7eec1584140e9d108f1d95775f92b7385b6e320d449a0e091c88898c3f
+hash: sha256:c30f2c985f7230aa2492f7dab87916a5bc8a83fd93c48ea2bad81f9416769c06
