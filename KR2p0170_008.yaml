@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 厥陰眽厥陰眽𣪠於足大指菆毛之上乘足跗上廉去內腂一寸上腂五寸而出大陰之後上出魚股內廉觸少腹大漬旁是動則病丈夫隤山婦人則少腹穜要痛不可以卬甚則嗌乾面疵是厥陰眽主治其所產病熱中降隤扁山五病有而心煩死勿治殹有陽眽與之俱病可治殹
-  hash: sha256:cb4ad13465230706012a7d51bd1dad417977fd65da30d591968d7b094e3a5166
+  text: 厥陰眽厥陰眽毄於足大指菆毛之上乘足跗上廉去內腂一寸上腂五寸而出大陰之後上出魚股內廉觸少腹大漬旁是動則病丈夫隤山婦人則少腹穜要痛不可以卬甚則嗌乾面疵是厥陰眽主治其所産病熱中降隤扁山五病有而心煩死勿治殹有陽眽與之俱病可治殹
+  hash: sha256:e5c304a20623b765c2851bea8044462790ef6a00eac650b80c4a362f09c4aefd
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_008-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:657b855db30e8e7836969adc43db2b7f7b03e3ecfe195436c14f71b124b91de0
+hash: sha256:691088ee21421cec47938029a65d5ee9672f0ccb1182ac19c6848d315223dfc3

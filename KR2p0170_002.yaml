@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 少陽眽少陽眽𣪠於外踝之前廉上出魚股之外出脇上出目前是動則病心與脅痛不可以反稷甚則無膏足外反此為陽蹶是少陽眽主治其所產病頭頸痛脅痛瘧汗出節盡痛脾外廉痛痛魚股痛膝外廉痛振寒足中指踝為十二病及溫
-  hash: sha256:60678f71ad38178db115d7a32cba9bfd6b5c212c75538720a1e3573c760cb694
+  text: 少陽眽少陽眽毄於外踝之前廉上出魚股之外出脅上出目前是動則病心與脅痛不可以反稷甚則無膏足外反此為陽蹶是少陽眽主治其所産病頭頸痛脅痛瘧汗出節盡痛脾外廉痛痛魚股痛膝外廉痛振寒足中指踝為十二病及溫
+  hash: sha256:961b8d56f698eb0b39cddfbca1dde21062809e8566ca98c8956945faf73407e8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_002-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:b9481566ed931080b979864bbd8c0c6970cba6111cb928f92563c6557d7fcac4
+hash: sha256:3536ccfe779b59846f7f0e7c1865be701fcaf237f8a4c5d8324e359beb323e3a

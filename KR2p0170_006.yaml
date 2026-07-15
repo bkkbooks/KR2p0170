@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 齒眽齒眽起於次指與大指上出臂上廉入肘中乘臑穿頰入齒中夾鼻是動則病齒痛朏穜是齒眽主治其所產病齒痛朏穜目黃口乾臑痛為五病
-  hash: sha256:100dcb0a637c0f9d6e80be384a6be694e460fad0ff1d2728556992214cb25a45
+  text: 齒眽齒眽起於次指與大指上出臂上廉入肘中乘臑穿頰入齒中夾鼻是動則病齒痛朏穜是齒眽主治其所産病齒痛朏穜目黃口乾臑痛為五病
+  hash: sha256:e6548262a21924e5af9a46b0b053e21c5ed61a77e24829d8a618512a9211293f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_006-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:4b4c6b248c56df036280b5b20a24058063d0e82e388e67f7adcc864803aae508
+hash: sha256:9e560837f70d363c6e1066661637da3c4ced9d5b27f78e7611cee5c3ee79915d

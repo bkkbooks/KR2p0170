@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 耳眽耳眽起於手北出臂外兩骨之間上骨下廉出肘中入耳中是動則病耳聾煇煇朜朜嗌穜是耳眽主治其所產病目外漬痛頰痛耳聾為三病
-  hash: sha256:3aad01e7d16c0a8abeaffc6fd77e043739b97664e72213cee2f835a0ad1df6b0
+  text: 耳眽耳眽起於手北出臂外兩骨之間上骨下廉出肘中入耳中是動則病耳聾輝輝朜朜嗌穜是耳眽主治其所産病目外漬痛頰痛耳聾為三病
+  hash: sha256:175e1e5274f057b8ac59f346c22f47d5bdecbc8734fb76508b4e34f36801e53e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0170_CHANT_005-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0170.xml
-hash: sha256:19b5a292c360840f5bf06ca4f1448d8548ea2336f743b48010e251c93fa065d0
+hash: sha256:3e1843a273f06f7d924a3152d5e4971c4e713864f817c2d7a24bbfe394504622
